@@ -1,16 +1,24 @@
-### Hi there 👋
+<h5>"Responsible, organized, self learning" </h5>
 
-<!--
-**Rafaheel/Rafaheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>  😀| More About Me: </h4>
+<p>
 
-Here are some ideas to get you started:
+Hi welcome to my profile, nice too meet you here, call me Rafael da Silva Ferreira. I'm beginner dev, and I'm searching for more knowledge and the first opportunity.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h4>   &#127919&#128187| Stacks that I'm learning: </h4>
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+
+
+
+<h4>&#128233 | Where to find me? </h4>
+<p>In addition to saying hi on linkedin you can send me an email: rafael_dasilva11@outlook.com.<p>
+
+<a href="https://www.linkedin.com/in/rafael-da-silva-ferreira-b24a80120/">
+<img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/>
+</a>

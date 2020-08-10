@@ -2,8 +2,8 @@
 
 <h4>  😀| More About Me: </h4>
 <p>
-
-Hi welcome to my profile, nice too meet you here, call me Rafael da Silva Ferreira. I'm beginner dev, and I'm searching for more knowledge and the first opportunity.</p>
+Hi welcome to my profile, nice too meet you here, call me Rafael da Silva Ferreira. I'm beginner dev, and I'm searching for more knowledge and the first opportunity. <br> 
+During all this days, i came learning about full-Stacks and a data science. And I have some experience with business intelligence using microsoft power BI..</p>
 
 
 <h4>   &#127919&#128187| Stacks that I'm learning: </h4>
